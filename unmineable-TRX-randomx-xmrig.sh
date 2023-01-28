@@ -1,1 +1,1 @@
-./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u TRX:TVs6sa6FjfYNoMzVxemfYt3tTmi8GVjTm9.unmineable_worker_insanenio -p x 
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u TRX:walletaddress.unmineable_worker_insanenio -p x 
